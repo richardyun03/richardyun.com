@@ -122,8 +122,6 @@ function Profile() {
         learning</em> and <em>world planning</em>. I build things at the
         intersection of machine learning, computer vision, and full-stack
         engineering — from JEPA world models to city-scale traffic analytics.
-        Previously at C3 AI, MIT LIDS, MIT Media Lab, and The Aerospace
-        Corporation.
       </p>
 
       <div className="profile-links reveal" data-delay="3">
