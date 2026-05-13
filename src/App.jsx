@@ -193,7 +193,7 @@ const experience = [
     bullets: [
       'Built full-stack traffic analytics and collision data visualization with React/TypeScript/Redux for the Seattle Department of Transportation.',
       'Designed a PostgreSQL data pipeline processing 10,000+ historical records with sub-second query response.',
-      "Trained an XGBoost model identifying severity factors across 7,000+ intersections, supporting Seattle's Vision Zero plan.",
+      "Application helped in identifying severity factors across 7,000+ intersections, supporting Seattle's Vision Zero plan.",
     ],
     link: {
       label: 'Integration to C3 Suite and full-time deployment!',
