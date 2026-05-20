@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 
 
 export default function App() {
@@ -33,6 +34,7 @@ export default function App() {
         </main>
         <Footer />
       </div>
+      <Analytics />
     </div>
   );
 }
